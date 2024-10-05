@@ -1,0 +1,1 @@
+python3 ./verify_call.py --path=../smartbugs-dashboard/smartbugs/dataset/unchecked_low_level_calls/ --main_path=../VeriSmart-public/main.native
